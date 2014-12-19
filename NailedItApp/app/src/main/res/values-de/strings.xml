@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animals">
+        <item>Adler</item>
+        <item>Affe</item>
+        <item>Ameise</item>
+        <item>Bär</item>
+        <item>Eisbär</item>
+        <item>Biber</item>
+        <item>Biene</item>
+        <item>Clownfisch</item>
+        <item>Dachs</item>
+        <item>Delphin</item>
+        <item>Echse</item>
+        <item>Eichhörnchen</item>
+        <item>Elch</item>
+        <item>Elefant</item>
+        <item>Ente</item>
+        <item>Esel</item>
+        <item>Eule</item>
+        <item>Glühwürmchen</item>
+        <item>Faultier</item>
+        <item>Flamingo</item>
+        <item>Frosch</item>
+        <item>Fliege</item>
+        <item>Fruchtfliege</item>
+        <item>Fledermaus</item>
+        <item>Frettchen</item>
+        <item>Nilpferd</item>
+        <item>Fuchs</item>
+        <item>Falke</item>
+        <item>Gans</item>
+        <item>Geier</item>
+        <item>Goldfisch</item>
+        <item>Giraffe</item>
+        <item>Gottesanbeterin</item>
+        <item>Gürteltier</item>
+        <item>Hai</item>
+        <item>Hamster</item>
+        <item>Huhn</item>
+        <item>Hase</item>
+        <item>Hirsch</item>
+        <item>Hund</item>
+        <item>Hyäne</item>
+        <item>Igel</item>
+        <item>Maikäfer</item>
+        <item>Marienkäfer</item>
+        <item>Kamel</item>
+        <item>Känguru</item>
+        <item>Kaninchen</item>
+        <item>Katze</item>
+        <item>Koala</item>
+        <item>Kondor</item>
+        <item>Krake</item>
+        <item>Krebs</item>
+        <item>Krokodil</item>
+        <item>Lama</item>
+        <item>Laus</item>
+        <item>Leguan</item>
+        <item>Luchs</item>
+        <item>Löwe</item>
+        <item>Leopard</item>
+        <item>Lemming</item>
+        <item>Maus</item>
+        <item>Meerschweinchen</item>
+        <item>Mops</item>
+        <item>Nashorn</item>
+        <item>Nasenbär</item>
+        <item>Otter</item>
+        <item>Panda</item>
+        <item>Papagei</item>
+        <item>Pelikan</item>
+        <item>Pfau</item>
+        <item>Pferd</item>
+        <item>Pinguin</item>
+        <item>Qualle</item>
+        <item>Ratte</item>
+        <item>Rentier</item>
+        <item>Kuh</item>
+        <item>Robbe</item>
+        <item>Schaf</item>
+        <item>Kakerlake</item>
+        <item>Schildkröte</item>
+        <item>Schmetterling</item>
+        <item>Schlange</item>
+        <item>Heuschrecke</item>
+        <item>Schnecke</item>
+        <item>Schwein</item>
+        <item>Seehund</item>
+        <item>Skorpion</item>
+        <item>Specht</item>
+        <item>Spinne</item>
+        <item>Stachelschwein</item>
+        <item>Stinktier</item>
+        <item>Storch</item>
+        <item>Strauß</item>
+        <item>Taube</item>
+        <item>Tausendfüßler</item>
+        <item>Tiger</item>
+        <item>Tyrannosaurus Rex</item>
+        <item>Zebra</item>
+        <item>Zecke</item>
+        <item>Ziege</item>
+    </string-array>
+
+    <string-array name="celebrities">
+        <item>Tom Hanks</item>
+        <item>Barack Obama</item>
+        <item>Michael Jackson</item>
+        <item>Justin Bieber</item>
+        <item>Beyoncé</item>
+        <item>Miley Cyrus</item>
+        <item>Rihanna</item>
+        <item>Lady Gaga</item>
+        <item>Til Schweiger</item>
+        <item>Bill Kaulitz</item>
+        <item>Prince</item>
+        <item>Chris Martin</item>
+        <item>Bono</item>
+        <item>Kate Middleton</item>
+        <item>Cher</item>
+        <item>Kate Winslet</item>
+        <item>Orlando Bloom</item>
+        <item>Ozzy Osbourne</item>
+        <item>Mark Zuckerberg</item>
+        <item>Justin Timberlake</item>
+        <item>Paul McCartney</item>
+        <item>Jennifer Lopez</item>
+        <item>Leonardo DiCapro</item>
+        <item>Prince William</item>
+        <item>The Pope</item>
+        <item>Queen Elizabeth</item>
+        <item>Johnny Depp</item>
+        <item>Heidi Klum</item>
+        <item>Brad Pitt</item>
+        <item>Angelina Jolie</item>
+        <item>Jennifer Aniston</item>
+        <item>Frank Schätzing</item>
+        <item>Albert Einstein</item>
+        <item>J.K. Rowling</item>
+        <item>Daniel Radcliffe</item>
+        <item>Macaulay Culkin</item>
+        <item>Gwyneth Paltrow</item>
+        <item>Natalie Portman</item>
+        <item>Kate Moss</item>
+        <item>Cameron Diaz</item>
+        <item>David Beckham</item>
+        <item>Britney Spears</item>
+        <item>Adam Levine</item>
+        <item>Robert Pattinson</item>
+        <item>Kristen Stewart</item>
+        <item>Scarlett Johansson</item>
+        <item>George Clooney</item>
+        <item>Tim Mälzer</item>
+        <item>Harald Schmidt</item>
+        <item>Oliver Pocher</item>
+        <item>Stefan Raab</item>
+        <item>Pamela Anderson</item>
+        <item>David Hasselhoff</item>
+        <item>Paris Hilton</item>
+        <item>Maria Carey</item>
+        <item>George W. Bush</item>
+        <item>Christina Aguilera</item>
+        <item>Halle Berry</item>
+        <item>Jan Ullrich</item>
+        <item>Steffi Graf</item>
+        <item>Franz Beckenbauer</item>
+        <item>Boris Becker</item>
+        <item>Nena</item>
+        <item>Michael Schumacher</item>
+        <item>Herbert Grönemeyer</item>
+        <item>Thomas Gottschalk</item>
+        <item>Dieter Bohlen</item>
+        <item>Helene Fischer</item>
+        <item>Heino</item>
+        <item>Dirk Nowitzki</item>
+        <item>Willy Millowitsch</item>
+        <item>Marilyn Monroe</item>
+        <item>Kiley Minogue</item>
+        <item>Pelé</item>
+        <item>Edward Snowden</item>
+        <item>Julian Assange</item>
+        <item>Hillary Clinton</item>
+        <item>Malala Yousafzai</item>
+        <item>George W. Bush</item>
+        <item>Jay Z</item>
+        <item>Steven Spielberg</item>
+        <item>Pharrell Williams</item>
+        <item>Bill Cosby</item>
+        <item>Borat</item>
+        <item>Mick Jagger</item>
+        <item>Madonna</item>
+        <item>Jake Gyllenhaal</item>
+        <item>Zac Efron</item>
+        <item>Matthias Schweighöfer</item>
+        <item>Cindy aus Marzahn</item>
+        <item>Xavier Naidoo</item>
+        <item>Joko und Klaas</item>
+        <item>Emma Watson</item>
+        <item>Penelopé Cruz</item>
+        <item>Woody Allen</item>
+        <item>Victoria Beckham</item>
+        <item>Selena Gomez</item>
+        <item>Peter Maffay</item>
+        <item>Niki Lauda</item>
+        <item>Tom Cruise</item>
+        <item>Avril Lavigne</item>
+        <item>Gwen Stefani</item>
+        <item>Lenny Kravitz</item>
+        <item>Eminem</item>
+        <item>Naomi Campbell</item>
+        <item>Sandra Bullock</item>
+        <item>Ben Stiller</item>
+        <item>Bon Jovi</item>
+        <item>Mel Gibson</item>
+        <item>Lothar Matthäus</item>
+        <item>Günther Jauch</item>
+        <item>Bushido</item>
+        <item>Helge Schneider</item>
+        <item>Robbie Williams</item>
+        <item>Sido</item>
+        <item>Markus Lanz</item>
+        <item>Arnold Schwarzenegger</item>
+        <item>Samuel L. Jackson</item>
+        <item>Detlef D. Soost</item>
+        <item>Hulk Hogan</item>
+        <item>Wladimir Klitschko</item>
+        <item>Jogi Löw</item>
+        <item>Bud Spencer</item>
+        <item>Clint Eastwood</item>
+        <item>50 Cent</item>
+        <item>Lance Armstrong</item>
+        <item>Sarah Kuttner</item>
+        <item>Will Smith</item>
+        <item>Ronaldo</item>
+        <item>Shakira</item>
+        <item>Adele</item>
+        <item>Messi</item>
+        <item>Bob Marley</item>
+        <item>Pink</item>
+        <item>Hugh Grant</item>
+        <item>Michelle Obama</item>
+        <item>Angela Merkel</item>
+        <item>Julia Roberts</item>
+        <item>Charlie Sheen</item>
+        <item>Stephenie Meyer</item>
+        <item>Sarah Jessica Parker</item>
+        <item>Nelson Mandela</item>
+        <item>Steve Jobs</item>
+        <item>Stephen Hawking</item>
+        <item>Jim Carrey</item>
+        <item>Elton John</item>
+        <item>Barbara Salesch</item>
+        <item>Lena Meyer-Landrut</item>
+        <item>Uli Hoeneß</item>
+    </string-array>
+
+    <string-array name="accents">
+        <item>Bayrisch</item>
+        <item>Schwäbisch</item>
+        <item>Norddeutsch</item>
+        <item>Berlinerisch</item>
+        <item>Sächsisch</item>
+        <item>Ruhrpott</item>
+        <item>Kölsch</item>
+        <item>Schwizerdütsch</item>
+        <item>Hessisch</item>
+        <item>Badisch</item>
+        <item>Fränkisch</item>
+        <item>Französisch</item>
+        <item>Russisch</item>
+        <item>Spanisch</item>
+        <item>Amerikanisches Englisch</item>
+        <item>Britisches Englisch</item>
+        <item>Australisch</item>
+        <item>Chinesisch</item>
+        <item>Schwedisch</item>
+        <item>Italienisch</item>
+        <item>Gangster</item>
+        <item>Yoda</item>
+        <item>C3PO</item>
+        <item>Homer Simpson</item>
+        <item>Verona Pooth</item>
+        <item>Daniela Katzenberger</item>
+        <item>Stephan Raab</item>
+        <item>Boris Becker</item>
+        <item>Mario Barth</item>
+        <item>Lothar Matthäus</item>
+        <item>Thomas Gottschalk</item>
+        <item>Angela Merkel</item>
+        <item>Günther Jauch</item>
+        <item>Dieter Bohlen</item>
+        <item>Heidi Klum</item>
+        <item>Bushido</item>
+        <item>Helge Schneider</item>
+        <item>Bernd Stromberg</item>
+        <item>Scooby Doo</item>
+        <item>Griechisch</item>
+        <item>Arnold Schwarzenegger</item>
+        <item>Forrest Gump</item>
+        <item>Gollum</item>
+        <item>Darth Vader</item>
+        <item>Jesse Pinkman</item>
+        <item>R2D2</item>
+        <item>Japanisch</item>
+        <item>Jamaikanisch</item>
+        <item>Cartman</item>
+        <item>Irisch</item>
+        <item>Schottisch</item>
+        <item>Indisch</item>
+        <item>E.T.</item>
+        <item>Jogi Löw</item>
+        <item>Marcel Reich-Ranicki</item>
+        <item>Rudi Carrell</item>
+        <item>Horst Schlämmer</item>
+        <item>John Wayne</item>
+        <item>Krümelmonster</item>
+        <item>Ernie</item>
+        <item>Bert</item>
+    </string-array>
+</resources>
