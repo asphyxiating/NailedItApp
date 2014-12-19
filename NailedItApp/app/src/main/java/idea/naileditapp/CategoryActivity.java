@@ -22,58 +22,21 @@ public class CategoryActivity extends Activity implements AdapterView.OnItemClic
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.category_activity);
-        categories.add("Animals");
-        categories.add("pantomime");
-        categories.add("Acting it out");
-        categories.add("Movies");
-        categories.add("Accents");
-        categories.add("Books");
-        categories.add("Tv Series");
-        categories.add("Animals");
-        categories.add("Celebrities");
-        categories.add("Acting it out");
-        categories.add("Movies");
-        categories.add("Accents");
-        categories.add("Books");
-        categories.add("Tv Series");
-        categories.add("Animals");
-        categories.add("Celebrities");
-        categories.add("Acting it out");
-        categories.add("Movies");
-        categories.add("Accents");
-        categories.add("Books");
-        categories.add("Tv Series");
-        categories.add("Animals");
-        categories.add("Celebrities");
-        categories.add("Acting it out");
-        categories.add("Movies");
-        categories.add("Accents");
-        categories.add("Books");
-        categories.add("Tv Series");
-        categories.add("Animals");
-        categories.add("Celebrities");
-        categories.add("Acting it out");
-        categories.add("Movies");
-        categories.add("Accents");
-        categories.add("Books");
-        categories.add("Tv Series");
-        categories.add("Animals");
-        categories.add("Celebrities");
-        categories.add("Acting it out");
-        categories.add("Movies");
-        categories.add("Accents");
-        categories.add("Books");
-        categories.add("Tv Series");
-        categories.add("Animals");
-        categories.add("Celebrities");
-        categories.add("Acting it out");
-        categories.add("Movies");
-        categories.add("Accents");
-        categories.add("Books");
-        categories.add("Tv Series");
-        ids.add(R.drawable.pantomime);
+        categories.add("Tiere");
+        categories.add("Pantomime");
+        categories.add("Stars");
+        categories.add("Akzente");
+        categories.add("Kids");
+        categories.add("Cartoon");
+        categories.add("Xmas");
+
         ids.add(R.drawable.stars);
+        ids.add(R.drawable.tiere);
+        ids.add(R.drawable.pantomime);
+        ids.add(R.drawable.cartoon);
+        ids.add(R.drawable.kids);
         ids.add(R.drawable.akzente);
+        ids.add(R.drawable.xmas);
         horizontalListView = (HListView) findViewById(R.id.grid_view);
         horizontalListView.setAdapter(new CategoryAdapter(this, ids));
         // horizontalListView.setOnItemClickListener(this);
@@ -84,7 +47,7 @@ public class CategoryActivity extends Activity implements AdapterView.OnItemClic
     public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
         if (position == 0) {
             Intent intent = new Intent(this, GameActivity.class);
-            intent.putExtra("listId", R.array.animals);
+            intent.putExtra("listId", R.array.tiere);
             startActivity(intent);
 
 

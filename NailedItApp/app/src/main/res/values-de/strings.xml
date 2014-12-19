@@ -1,52 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="animals">
+    <string-array name="tiere">
         <item>Adler</item>
         <item>Affe</item>
         <item>Ameise</item>
-        <item>Bär</item>
-        <item>Eisbär</item>
         <item>Biber</item>
         <item>Biene</item>
+        <item>Bär</item>
         <item>Clownfisch</item>
         <item>Dachs</item>
         <item>Delphin</item>
         <item>Echse</item>
         <item>Eichhörnchen</item>
+        <item>Eisbär</item>
         <item>Elch</item>
         <item>Elefant</item>
         <item>Ente</item>
+        <item>Erdmännchen</item>
         <item>Esel</item>
         <item>Eule</item>
-        <item>Glühwürmchen</item>
+        <item>Falke</item>
         <item>Faultier</item>
         <item>Flamingo</item>
-        <item>Frosch</item>
-        <item>Fliege</item>
-        <item>Fruchtfliege</item>
         <item>Fledermaus</item>
+        <item>Fliege</item>
         <item>Frettchen</item>
-        <item>Nilpferd</item>
+        <item>Frosch</item>
+        <item>Fruchtfliege</item>
         <item>Fuchs</item>
-        <item>Falke</item>
         <item>Gans</item>
         <item>Geier</item>
-        <item>Goldfisch</item>
         <item>Giraffe</item>
+        <item>Goldfisch</item>
         <item>Gottesanbeterin</item>
         <item>Gürteltier</item>
         <item>Hai</item>
         <item>Hamster</item>
-        <item>Huhn</item>
         <item>Hase</item>
+        <item>Heuschrecke</item>
         <item>Hirsch</item>
+        <item>Huhn</item>
         <item>Hund</item>
         <item>Hyäne</item>
         <item>Igel</item>
-        <item>Maikäfer</item>
-        <item>Marienkäfer</item>
+        <item>Kakerlake</item>
         <item>Kamel</item>
-        <item>Känguru</item>
         <item>Kaninchen</item>
         <item>Katze</item>
         <item>Koala</item>
@@ -54,18 +52,25 @@
         <item>Krake</item>
         <item>Krebs</item>
         <item>Krokodil</item>
+        <item>Kuh</item>
+        <item>Känguru</item>
         <item>Lama</item>
         <item>Laus</item>
         <item>Leguan</item>
+        <item>Lemming</item>
+        <item>Leopard</item>
         <item>Luchs</item>
         <item>Löwe</item>
-        <item>Leopard</item>
-        <item>Lemming</item>
+        <item>Maikäfer</item>
+        <item>Marienkäfer</item>
+        <item>Maulwurf</item>
         <item>Maus</item>
         <item>Meerschweinchen</item>
         <item>Mops</item>
-        <item>Nashorn</item>
+        <item>Mücke</item>
         <item>Nasenbär</item>
+        <item>Nashorn</item>
+        <item>Nilpferd</item>
         <item>Otter</item>
         <item>Panda</item>
         <item>Papagei</item>
@@ -76,14 +81,12 @@
         <item>Qualle</item>
         <item>Ratte</item>
         <item>Rentier</item>
-        <item>Kuh</item>
         <item>Robbe</item>
         <item>Schaf</item>
-        <item>Kakerlake</item>
         <item>Schildkröte</item>
-        <item>Schmetterling</item>
         <item>Schlange</item>
-        <item>Heuschrecke</item>
+        <item>Schmetterling</item>
+        <item>Schnabeltier</item>
         <item>Schnecke</item>
         <item>Schwein</item>
         <item>Seehund</item>
@@ -103,159 +106,159 @@
         <item>Ziege</item>
     </string-array>
 
-    <string-array name="celebrities">
-        <item>Tom Hanks</item>
+    <string-array name="stars">
+        <item>50 Cent</item>
+        <item>Adam Levine</item>
+        <item>Adele</item>
+        <item>Albert Einstein</item>
+        <item>Angela Merkel</item>
+        <item>Angelina Jolie</item>
+        <item>Arnold Schwarzenegger</item>
+        <item>Avril Lavigne</item>
         <item>Barack Obama</item>
-        <item>Michael Jackson</item>
-        <item>Justin Bieber</item>
+        <item>Barbara Salesch</item>
+        <item>Ben Stiller</item>
         <item>Beyoncé</item>
-        <item>Miley Cyrus</item>
-        <item>Rihanna</item>
-        <item>Lady Gaga</item>
-        <item>Til Schweiger</item>
+        <item>Bill Cosby</item>
         <item>Bill Kaulitz</item>
-        <item>Prince</item>
-        <item>Chris Martin</item>
+        <item>Bob Marley</item>
+        <item>Bon Jovi</item>
         <item>Bono</item>
-        <item>Kate Middleton</item>
+        <item>Borat</item>
+        <item>Boris Becker</item>
+        <item>Brad Pitt</item>
+        <item>Britney Spears</item>
+        <item>Bud Spencer</item>
+        <item>Bushido</item>
+        <item>Cameron Diaz</item>
+        <item>Charlie Sheen</item>
         <item>Cher</item>
+        <item>Chris Martin</item>
+        <item>Christina Aguilera</item>
+        <item>Cindy aus Marzahn</item>
+        <item>Clint Eastwood</item>
+        <item>Daniel Radcliffe</item>
+        <item>David Beckham</item>
+        <item>David Hasselhoff</item>
+        <item>Der Papst</item>
+        <item>Detlef D. Soost</item>
+        <item>Dieter Bohlen</item>
+        <item>Dirk Nowitzki</item>
+        <item>Edward Snowden</item>
+        <item>Elton John</item>
+        <item>Eminem</item>
+        <item>Emma Watson</item>
+        <item>Frank Schätzing</item>
+        <item>Franz Beckenbauer</item>
+        <item>George Clooney</item>
+        <item>George W. Bush</item>
+        <item>Gwen Stefani</item>
+        <item>Gwyneth Paltrow</item>
+        <item>Günther Jauch</item>
+        <item>Halle Berry</item>
+        <item>Hape Kerkeling</item>
+        <item>Harald Schmidt</item>
+        <item>Heidi Klum</item>
+        <item>Heino</item>
+        <item>Helene Fischer</item>
+        <item>Helge Schneider</item>
+        <item>Herbert Grönemeyer</item>
+        <item>Hillary Clinton</item>
+        <item>Hugh Grant</item>
+        <item>Hulk Hogan</item>
+        <item>J.K. Rowling</item>
+        <item>Jake Gyllenhaal</item>
+        <item>Jan Ullrich</item>
+        <item>Jay Z</item>
+        <item>Jennifer Aniston</item>
+        <item>Jennifer Lopez</item>
+        <item>Jim Carrey</item>
+        <item>Jogi Löw</item>
+        <item>Johnny Depp</item>
+        <item>Joko und Klaas</item>
+        <item>Julia Roberts</item>
+        <item>Julian Assange</item>
+        <item>Justin Bieber</item>
+        <item>Justin Timberlake</item>
+        <item>Kate Middleton</item>
+        <item>Kate Moss</item>
         <item>Kate Winslet</item>
+        <item>Kiley Minogue</item>
+        <item>Kristen Stewart</item>
+        <item>Lady Gaga</item>
+        <item>Lance Armstrong</item>
+        <item>Lena Meyer-Landrut</item>
+        <item>Lenny Kravitz</item>
+        <item>Leonardo DiCapro</item>
+        <item>Lothar Matthäus</item>
+        <item>Macaulay Culkin</item>
+        <item>Madonna</item>
+        <item>Malala Yousafzai</item>
+        <item>Maria Carey</item>
+        <item>Marilyn Monroe</item>
+        <item>Mark Zuckerberg</item>
+        <item>Markus Lanz</item>
+        <item>Matthias Schweighöfer</item>
+        <item>Mel Gibson</item>
+        <item>Messi</item>
+        <item>Michael Jackson</item>
+        <item>Michael Schumacher</item>
+        <item>Michelle Obama</item>
+        <item>Mick Jagger</item>
+        <item>Miley Cyrus</item>
+        <item>Naomi Campbell</item>
+        <item>Natalie Portman</item>
+        <item>Nelson Mandela</item>
+        <item>Nena</item>
+        <item>Niki Lauda</item>
+        <item>Oliver Pocher</item>
         <item>Orlando Bloom</item>
         <item>Ozzy Osbourne</item>
-        <item>Mark Zuckerberg</item>
-        <item>Justin Timberlake</item>
-        <item>Paul McCartney</item>
-        <item>Jennifer Lopez</item>
-        <item>Leonardo DiCapro</item>
-        <item>Prince William</item>
-        <item>The Pope</item>
-        <item>Queen Elizabeth</item>
-        <item>Johnny Depp</item>
-        <item>Heidi Klum</item>
-        <item>Brad Pitt</item>
-        <item>Angelina Jolie</item>
-        <item>Jennifer Aniston</item>
-        <item>Frank Schätzing</item>
-        <item>Albert Einstein</item>
-        <item>J.K. Rowling</item>
-        <item>Daniel Radcliffe</item>
-        <item>Macaulay Culkin</item>
-        <item>Gwyneth Paltrow</item>
-        <item>Natalie Portman</item>
-        <item>Kate Moss</item>
-        <item>Cameron Diaz</item>
-        <item>David Beckham</item>
-        <item>Britney Spears</item>
-        <item>Adam Levine</item>
-        <item>Robert Pattinson</item>
-        <item>Kristen Stewart</item>
-        <item>Scarlett Johansson</item>
-        <item>George Clooney</item>
-        <item>Tim Mälzer</item>
-        <item>Harald Schmidt</item>
-        <item>Oliver Pocher</item>
-        <item>Stefan Raab</item>
         <item>Pamela Anderson</item>
-        <item>David Hasselhoff</item>
         <item>Paris Hilton</item>
-        <item>Maria Carey</item>
-        <item>George W. Bush</item>
-        <item>Christina Aguilera</item>
-        <item>Halle Berry</item>
-        <item>Jan Ullrich</item>
-        <item>Steffi Graf</item>
-        <item>Franz Beckenbauer</item>
-        <item>Boris Becker</item>
-        <item>Nena</item>
-        <item>Michael Schumacher</item>
-        <item>Herbert Grönemeyer</item>
-        <item>Thomas Gottschalk</item>
-        <item>Dieter Bohlen</item>
-        <item>Helene Fischer</item>
-        <item>Heino</item>
-        <item>Dirk Nowitzki</item>
-        <item>Willy Millowitsch</item>
-        <item>Marilyn Monroe</item>
-        <item>Kiley Minogue</item>
+        <item>Paul McCartney</item>
         <item>Pelé</item>
-        <item>Edward Snowden</item>
-        <item>Julian Assange</item>
-        <item>Hillary Clinton</item>
-        <item>Malala Yousafzai</item>
-        <item>George W. Bush</item>
-        <item>Jay Z</item>
-        <item>Steven Spielberg</item>
-        <item>Pharrell Williams</item>
-        <item>Bill Cosby</item>
-        <item>Borat</item>
-        <item>Mick Jagger</item>
-        <item>Madonna</item>
-        <item>Jake Gyllenhaal</item>
-        <item>Zac Efron</item>
-        <item>Matthias Schweighöfer</item>
-        <item>Cindy aus Marzahn</item>
-        <item>Xavier Naidoo</item>
-        <item>Joko und Klaas</item>
-        <item>Emma Watson</item>
         <item>Penelopé Cruz</item>
-        <item>Woody Allen</item>
-        <item>Victoria Beckham</item>
-        <item>Selena Gomez</item>
         <item>Peter Maffay</item>
-        <item>Niki Lauda</item>
-        <item>Tom Cruise</item>
-        <item>Avril Lavigne</item>
-        <item>Gwen Stefani</item>
-        <item>Lenny Kravitz</item>
-        <item>Eminem</item>
-        <item>Naomi Campbell</item>
-        <item>Sandra Bullock</item>
-        <item>Ben Stiller</item>
-        <item>Bon Jovi</item>
-        <item>Mel Gibson</item>
-        <item>Lothar Matthäus</item>
-        <item>Günther Jauch</item>
-        <item>Bushido</item>
-        <item>Helge Schneider</item>
-        <item>Robbie Williams</item>
-        <item>Sido</item>
-        <item>Markus Lanz</item>
-        <item>Arnold Schwarzenegger</item>
-        <item>Samuel L. Jackson</item>
-        <item>Detlef D. Soost</item>
-        <item>Hulk Hogan</item>
-        <item>Wladimir Klitschko</item>
-        <item>Jogi Löw</item>
-        <item>Bud Spencer</item>
-        <item>Clint Eastwood</item>
-        <item>50 Cent</item>
-        <item>Lance Armstrong</item>
-        <item>Sarah Kuttner</item>
-        <item>Will Smith</item>
-        <item>Ronaldo</item>
-        <item>Shakira</item>
-        <item>Adele</item>
-        <item>Messi</item>
-        <item>Bob Marley</item>
+        <item>Pharrell Williams</item>
         <item>Pink</item>
-        <item>Hugh Grant</item>
-        <item>Michelle Obama</item>
-        <item>Angela Merkel</item>
-        <item>Julia Roberts</item>
-        <item>Charlie Sheen</item>
-        <item>Stephenie Meyer</item>
+        <item>Prince William</item>
+        <item>Prince</item>
+        <item>Queen Elizabeth</item>
+        <item>Rihanna</item>
+        <item>Robbie Williams</item>
+        <item>Robert Pattinson</item>
+        <item>Ronaldo</item>
+        <item>Samuel L. Jackson</item>
+        <item>Sandra Bullock</item>
         <item>Sarah Jessica Parker</item>
-        <item>Nelson Mandela</item>
-        <item>Steve Jobs</item>
+        <item>Sarah Kuttner</item>
+        <item>Scarlett Johansson</item>
+        <item>Selena Gomez</item>
+        <item>Shakira</item>
+        <item>Sido</item>
+        <item>Stefan Raab</item>
+        <item>Steffi Graf</item>
         <item>Stephen Hawking</item>
-        <item>Jim Carrey</item>
-        <item>Elton John</item>
-        <item>Barbara Salesch</item>
-        <item>Lena Meyer-Landrut</item>
+        <item>Stephenie Meyer</item>
+        <item>Steve Jobs</item>
+        <item>Steven Spielberg</item>
+        <item>Thomas Gottschalk</item>
+        <item>Til Schweiger</item>
+        <item>Tim Mälzer</item>
+        <item>Tom Cruise</item>
+        <item>Tom Hanks</item>
         <item>Uli Hoeneß</item>
+        <item>Victoria Beckham</item>
+        <item>Will Smith</item>
+        <item>Willy Millowitsch</item>
+        <item>Wladimir Klitschko</item>
+        <item>Woody Allen</item>
+        <item>Xavier Naidoo</item>
+        <item>Zac Efron</item>
     </string-array>
 
-    <string-array name="accents">
+    <string-array name="akzente">
         <item>Bayrisch</item>
         <item>Schwäbisch</item>
         <item>Norddeutsch</item>
@@ -303,6 +306,7 @@
         <item>Jesse Pinkman</item>
         <item>R2D2</item>
         <item>Japanisch</item>
+        <item>Niederländisch</item>
         <item>Jamaikanisch</item>
         <item>Cartman</item>
         <item>Irisch</item>
@@ -318,4 +322,611 @@
         <item>Ernie</item>
         <item>Bert</item>
     </string-array>
+
+    <string-array name="pantomime">
+        <item>Achterbahn fahren</item>
+        <item>Albtraum</item>
+        <item>American Football</item>
+        <item>An die Tür klopfen</item>
+        <item>Angeln</item>
+        <item>Auf dem Mond laufen</item>
+        <item>Auflegen</item>
+        <item>Aufwachen</item>
+        <item>Aufzug</item>
+        <item>Augenbrauen zupfen</item>
+        <item>Autofahren</item>
+        <item>Backen</item>
+        <item>Bahnticket kaufen</item>
+        <item>Ballett</item>
+        <item>Banane schälen</item>
+        <item>Baseball</item>
+        <item>Basketball</item>
+        <item>Bauchtanz</item>
+        <item>Benzin tanken</item>
+        <item>Beten</item>
+        <item>Bett machen</item>
+        <item>Betteln</item>
+        <item>BH anziehen</item>
+        <item>Bier trinken</item>
+        <item>Bier zapfen</item>
+        <item>Billiard</item>
+        <item>Blumen gießen</item>
+        <item>Blumen pflücken</item>
+        <item>Blutspenden</item>
+        <item>Boarding</item>
+        <item>Bogenschießen</item>
+        <item>Boomerang</item>
+        <item>Boule</item>
+        <item>Boxen</item>
+        <item>Brief öffnen</item>
+        <item>Briefmarke aufkleben</item>
+        <item>Bügeln</item>
+        <item>Cello</item>
+        <item>Cheerleading</item>
+        <item>Cocktails mixen</item>
+        <item>Dart spielen</item>
+        <item>Dehnen</item>
+        <item>Demonstrieren</item>
+        <item>Dose öffnen</item>
+        <item>Drachen steigen</item>
+        <item>Dreadlocks</item>
+        <item>Duschen</item>
+        <item>Ei aufschlagen</item>
+        <item>Eis essen</item>
+        <item>Entbinden</item>
+        <item>Erdbeben</item>
+        <item>Fahrrad fahren</item>
+        <item>Fallschirmsprung</item>
+        <item>Fernglas</item>
+        <item>Feuer löschen</item>
+        <item>Feuer machen</item>
+        <item>Feuerholz hacken</item>
+        <item>Flagge hissen</item>
+        <item>Fliegen</item>
+        <item>Flirten</item>
+        <item>Flitzer</item>
+        <item>Flöte spielen</item>
+        <item>Fotos machen</item>
+        <item>Frisbee</item>
+        <item>Fußball</item>
+        <item>Gassi gehen</item>
+        <item>Geld abheben</item>
+        <item>Geld zählen</item>
+        <item>Geschenk einpacken</item>
+        <item>Geschenk öffnen</item>
+        <item>Geschirr spülen</item>
+        <item>Gesichtsstraffung</item>
+        <item>Gewichtheben</item>
+        <item>Gitarre spielen</item>
+        <item>Glühbirne wechseln</item>
+        <item>Glühwürmchen fangen</item>
+        <item>Golf</item>
+        <item>Graffiti</item>
+        <item>Grillen</item>
+        <item>Gähnen</item>
+        <item>Haare flechten</item>
+        <item>Haare glätten</item>
+        <item>Haare kämmen</item>
+        <item>Haare schneiden</item>
+        <item>Handlesen</item>
+        <item>Handy aufladen</item>
+        <item>Heiratsantrag</item>
+        <item>High-five</item>
+        <item>Hipster</item>
+        <item>Hämmern</item>
+        <item>Hängematte</item>
+        <item>Höhenangst</item>
+        <item>Ice Bucket Challenge</item>
+        <item>Im Stau stehen</item>
+        <item>In die Sterne gucken</item>
+        <item>In Ohnmacht fallen</item>
+        <item>Inlineskates fahren</item>
+        <item>Jagen</item>
+        <item>Joint drehen</item>
+        <item>Jonglieren</item>
+        <item>Kaffee kochen</item>
+        <item>Karaoke</item>
+        <item>Karussell</item>
+        <item>Kaugummi kaufen</item>
+        <item>Kayak fahren</item>
+        <item>Kerzen auspusten</item>
+        <item>Klavier</item>
+        <item>Klettern</item>
+        <item>Knutschen</item>
+        <item>Kochen</item>
+        <item>Koffer packen</item>
+        <item>Kontaktlinsen</item>
+        <item>Kopfschmerzen</item>
+        <item>Kopftuch</item>
+        <item>Kotzen</item>
+        <item>Krawatte binden</item>
+        <item>Krücken</item>
+        <item>Kühlschrank abtauen</item>
+        <item>Lachen</item>
+        <item>Ladendiebstahl</item>
+        <item>Lesen</item>
+        <item>Limbo</item>
+        <item>Loch graben</item>
+        <item>Lockenwickler</item>
+        <item>Luftballon aufblasen</item>
+        <item>Malen</item>
+        <item>Massage</item>
+        <item>Meditieren</item>
+        <item>Mikrowelle</item>
+        <item>Modeln</item>
+        <item>Motorrad fahren</item>
+        <item>Mund-zu-Mund-Beatmung</item>
+        <item>Müll rausbringen</item>
+        <item>Nach dem Weg fragen</item>
+        <item>Nase putzen</item>
+        <item>Niesen</item>
+        <item>Nägel lackieren</item>
+        <item>Nägel schneiden</item>
+        <item>Nähen</item>
+        <item>Ohrloch stechen</item>
+        <item>Papierflugzeug</item>
+        <item>Parfum auftragen</item>
+        <item>Per Anhalter fahren</item>
+        <item>Pfannenkuchen wenden</item>
+        <item>Pfeifen</item>
+        <item>Picknick</item>
+        <item>Pistole abfeuern</item>
+        <item>Popcorn essen</item>
+        <item>Rasen mähen</item>
+        <item>Rasieren</item>
+        <item>Rauchen</item>
+        <item>Recyceln</item>
+        <item>Regenschirm öffnen</item>
+        <item>Reifen aufpumpen</item>
+        <item>Reifen wechseln</item>
+        <item>Reiten</item>
+        <item>Rennen</item>
+        <item>Roller fahren</item>
+        <item>Rolltreppe</item>
+        <item>Rülpsen</item>
+        <item>Sandburg bauen</item>
+        <item>Schach</item>
+        <item>Scharaden</item>
+        <item>Schaukeln</item>
+        <item>Schlafen</item>
+        <item>Schlafwandeln</item>
+        <item>Schlagzeug</item>
+        <item>Schlitten fahren</item>
+        <item>Schlittschuh laufen</item>
+        <item>Schluckauf</item>
+        <item>Schlüssel verloren</item>
+        <item>Schminken</item>
+        <item>Schnarchen</item>
+        <item>Schnee schaufeln</item>
+        <item>Schneeengel</item>
+        <item>Schreiben</item>
+        <item>Schreibmaschine</item>
+        <item>Schuhe zubinden</item>
+        <item>Schwimmen</item>
+        <item>Schäfchen zählen</item>
+        <item>Segeln</item>
+        <item>Seifenblasen</item>
+        <item>Seilhüpfen</item>
+        <item>Sektkorken knallen</item>
+        <item>Selfie</item>
+        <item>Shoppen</item>
+        <item>Sicherheitskontrolle</item>
+        <item>Singen</item>
+        <item>Skateboarden</item>
+        <item>Skifahren</item>
+        <item>SMS schreiben</item>
+        <item>Snowboarden</item>
+        <item>Sonnenbaden</item>
+        <item>Spicken</item>
+        <item>Stalken</item>
+        <item>Starren</item>
+        <item>Staub wischen</item>
+        <item>Staubsaugen</item>
+        <item>Stolpern</item>
+        <item>Streichholz anzünden</item>
+        <item>Stricken</item>
+        <item>Sumoringen</item>
+        <item>Surfen</item>
+        <item>Tackern</item>
+        <item>Tanzen</item>
+        <item>Tauchen</item>
+        <item>Taufe</item>
+        <item>Taxi heranwinken</item>
+        <item>Telefonzelle</item>
+        <item>Tennis</item>
+        <item>Tischtennis</item>
+        <item>Toilette benutzen</item>
+        <item>Trompete</item>
+        <item>Uhr umstellen</item>
+        <item>Ventilator</item>
+        <item>Verkehr regeln</item>
+        <item>Verstecken spielen</item>
+        <item>Videospiele zocken</item>
+        <item>Volleyball</item>
+        <item>Vorhang schließen</item>
+        <item>Wandern</item>
+        <item>Wasserrutsche</item>
+        <item>Wechselgeld bekommen</item>
+        <item>Weihnachtsbaum schmücken</item>
+        <item>Weinen</item>
+        <item>Windeln wechseln</item>
+        <item>Wählen</item>
+        <item>Wäsche aufhängen</item>
+        <item>Wäsche falten</item>
+        <item>Würfeln</item>
+        <item>Würgen</item>
+        <item>Yo-yo</item>
+        <item>Yoga</item>
+        <item>Zahnseide</item>
+        <item>Zahnspange</item>
+        <item>Zahnstocher</item>
+        <item>Zappen</item>
+        <item>Zelt aufbauen</item>
+        <item>Zähne putzen</item>
+        <item>Zug verpassen</item>
+    </string-array>
+
+    <string-array name="kids">
+        <item>Achterbahn</item>
+        <item>Affe</item>
+        <item>Aladdin</item>
+        <item>Alien</item>
+        <item>Angeln</item>
+        <item>Armdrücken</item>
+        <item>Arzt</item>
+        <item>Astronaut</item>
+        <item>Auto fahren</item>
+        <item>Baby</item>
+        <item>Ballerina</item>
+        <item>Balu der Bär</item>
+        <item>Bambi</item>
+        <item>Barbie</item>
+        <item>Bart Simpson</item>
+        <item>Basketball</item>
+        <item>Bauer</item>
+        <item>Baumhaus</item>
+        <item>Benjamin Blümchen</item>
+        <item>Bert</item>
+        <item>Bibi Blocksberg</item>
+        <item>Biene Maja</item>
+        <item>Bugs Bunny</item>
+        <item>Bürgermeister</item>
+        <item>Captain Hook</item>
+        <item>Clown</item>
+        <item>Cowboy</item>
+        <item>Dalmatiner</item>
+        <item>Daumen lutschen</item>
+        <item>Delphin</item>
+        <item>Detektiv</item>
+        <item>Die Schlümpfe</item>
+        <item>Dinosaurier</item>
+        <item>Donald Duck</item>
+        <item>Drakula</item>
+        <item>Duschen</item>
+        <item>Edward Cullen</item>
+        <item>Einbrecher</item>
+        <item>Einhorn</item>
+        <item>Elefant</item>
+        <item>Engel</item>
+        <item>Ernie</item>
+        <item>Fahrrad fahren</item>
+        <item>Fangen spielen</item>
+        <item>Felix der Hase</item>
+        <item>Feuerwehrmann</item>
+        <item>Fledermaus</item>
+        <item>Flugzeug</item>
+        <item>Fotograf</item>
+        <item>Fred Feuerstein</item>
+        <item>Frisör</item>
+        <item>Frosch</item>
+        <item>Fußball</item>
+        <item>Fön</item>
+        <item>Garfield</item>
+        <item>Gassi gehen</item>
+        <item>Gefängnis</item>
+        <item>Gespenst</item>
+        <item>Giraffe</item>
+        <item>Graffiti</item>
+        <item>Halloween</item>
+        <item>Hamburger</item>
+        <item>Hannah Montana</item>
+        <item>Harry Potter</item>
+        <item>Hausaufgaben</item>
+        <item>Hausmeister</item>
+        <item>Heidi</item>
+        <item>Hello Kitty</item>
+        <item>Hermine Granger</item>
+        <item>Homer Simpson</item>
+        <item>Indianer</item>
+        <item>iPod</item>
+        <item>Isabella Swan</item>
+        <item>Justin Bieber</item>
+        <item>Karate</item>
+        <item>Karussell</item>
+        <item>Katze</item>
+        <item>Kindergarten</item>
+        <item>Klingelmännchen</item>
+        <item>Koala</item>
+        <item>Krokodil</item>
+        <item>Krümelmonster</item>
+        <item>Känguru</item>
+        <item>Küssen</item>
+        <item>Lego</item>
+        <item>Lehrer</item>
+        <item>Luftballon</item>
+        <item>Löwe</item>
+        <item>Löwenzahn</item>
+        <item>Maulwurf</item>
+        <item>Meerjungfrau</item>
+        <item>Mickey Mouse</item>
+        <item>Milchschnitte</item>
+        <item>Miley Cyrus</item>
+        <item>Mogli</item>
+        <item>Mücke</item>
+        <item>Nemo</item>
+        <item>Osterhase</item>
+        <item>Ottifant</item>
+        <item>Penner</item>
+        <item>Peter Pan</item>
+        <item>Pikachú</item>
+        <item>Pinguin</item>
+        <item>Pinocchio</item>
+        <item>Pippi Langstrumpf</item>
+        <item>Pirat</item>
+        <item>Planschbecken</item>
+        <item>Polizist</item>
+        <item>Popcorn</item>
+        <item>Popeye</item>
+        <item>Prinzessin</item>
+        <item>Pumbaa</item>
+        <item>Pumuckl</item>
+        <item>Putzfrau</item>
+        <item>Raupe</item>
+        <item>Regenschirm</item>
+        <item>Reiten</item>
+        <item>Ritter</item>
+        <item>Roboter</item>
+        <item>Ron Weasley</item>
+        <item>Rutsche</item>
+        <item>Sandburg</item>
+        <item>Sandmännchen</item>
+        <item>Schaukel</item>
+        <item>Schildkröte</item>
+        <item>Schlange</item>
+        <item>Schlitten fahren</item>
+        <item>Schmetterling</item>
+        <item>Schneeballschlacht</item>
+        <item>Schneemann</item>
+        <item>Schneewittchen</item>
+        <item>Schornsteinfeger</item>
+        <item>Schwein</item>
+        <item>Schwimmen</item>
+        <item>Scooby-Doo</item>
+        <item>Seifenblasen</item>
+        <item>Seilspringen</item>
+        <item>Shaun, das Schaf</item>
+        <item>Shrek</item>
+        <item>Skateboard</item>
+        <item>Skifahren</item>
+        <item>Snoopy</item>
+        <item>Spaghetti</item>
+        <item>Sparschwein</item>
+        <item>Specht</item>
+        <item>Speedy Gonzales</item>
+        <item>Spinne</item>
+        <item>Spongebob</item>
+        <item>Super Mario</item>
+        <item>Superman</item>
+        <item>Tarzan</item>
+        <item>Tausendfüßler</item>
+        <item>Teletubbies</item>
+        <item>Tennis</item>
+        <item>Tischtennis</item>
+        <item>Toilette</item>
+        <item>Tom und Jerry</item>
+        <item>Traktor</item>
+        <item>Verstecken spielen</item>
+        <item>Voldemort</item>
+        <item>Wasserrutsche</item>
+        <item>Weihnachtsmann</item>
+        <item>Wickie</item>
+        <item>Winnie Pooh</item>
+        <item>X-Box</item>
+        <item>Yeti</item>
+        <item>Zahnarzt</item>
+        <item>Zahnspange</item>
+        <item>Zauberer</item>
+        <item>Zebra</item>
+        <item>Zuckerwatte</item>
+        <item>Zwerg</item>
+        <item>Überraschungsei</item>
+    </string-array>
+
+    <string-array name="cartoon">
+        <item>Aang</item>
+        <item>Aladdin</item>
+        <item>Archie</item>
+        <item>Arielle</item>
+        <item>Asterix</item>
+        <item>Balu der Bär</item>
+        <item>Bambi</item>
+        <item>Bart Simpson</item>
+        <item>Batman</item>
+        <item>Beavis and Butt-head</item>
+        <item>Bender</item>
+        <item>Benjamin Blümchen</item>
+        <item>Bibi Blocksberg</item>
+        <item>Biene Maja</item>
+        <item>Big Bird</item>
+        <item>Brian Griffin</item>
+        <item>Bugs Bunny</item>
+        <item>Buzz Lightyear</item>
+        <item>Captain America</item>
+        <item>Captain Hook</item>
+        <item>Cartman</item>
+        <item>Casper</item>
+        <item>Catwoman</item>
+        <item>Charlie Brown</item>
+        <item>Daffy Duck</item>
+        <item>Darkwing Duck</item>
+        <item>Der Grinch</item>
+        <item>Donald Duck</item>
+        <item>Dumbo</item>
+        <item>Elmo</item>
+        <item>Flash</item>
+        <item>Fred Flinstone</item>
+        <item>Garfield</item>
+        <item>Gargamel</item>
+        <item>Goofy</item>
+        <item>Grinsekatze</item>
+        <item>Gromit</item>
+        <item>Heidi</item>
+        <item>Homer Simpson</item>
+        <item>Hulk</item>
+        <item>Inspektor Gadget</item>
+        <item>Iron Man</item>
+        <item>Itchy und Scratchy</item>
+        <item>Lisa Simpson</item>
+        <item>Lucky Luke</item>
+        <item>Maggie Simpson</item>
+        <item>Marge Simpson</item>
+        <item>Marvin der Marsmensch</item>
+        <item>Mickey Mouse</item>
+        <item>Mike Wazowski</item>
+        <item>Minnie Mouse</item>
+        <item>Mogli</item>
+        <item>Monkey D. Ruffy</item>
+        <item>Naruto Uzumaki</item>
+        <item>Nemo</item>
+        <item>Ninja Turtles</item>
+        <item>Obelix</item>
+        <item>Papa Schlumpf</item>
+        <item>Peter Pan</item>
+        <item>Pikachu</item>
+        <item>Pink Panther</item>
+        <item>Pinky und Brain</item>
+        <item>Pinocchio</item>
+        <item>Pocahontas</item>
+        <item>Popeye</item>
+        <item>Pumuckl</item>
+        <item>Road Runner</item>
+        <item>Robin Hood</item>
+        <item>Roger Rabbit</item>
+        <item>Schlumpfine</item>
+        <item>Scooby-Doo</item>
+        <item>Son Goku</item>
+        <item>Spiderman</item>
+        <item>Spongebob</item>
+        <item>Super Mario</item>
+        <item>Superman</item>
+        <item>Tigger</item>
+        <item>Timon und Pumba</item>
+        <item>Tinkerbell</item>
+        <item>Tom und Jerry</item>
+        <item>Tweety</item>
+        <item>Wall-e</item>
+        <item>Wallace</item>
+        <item>Wickie</item>
+        <item>Wile E. Coyote</item>
+        <item>Willy Wonka</item>
+        <item>Winnie Pooh</item>
+        <item>Wonderwoman</item>
+        <item>Woodstock</item>
+        <item>Woody Woodpecker</item>
+        <item>Yogi Bär</item>
+    </string-array>
+
+    <string-array name="xmas">
+        <item>Adventskalender</item>
+        <item>Adventskranz</item>
+        <item>Apfelsine</item>
+        <item>Bescherung</item>
+        <item>Bratapfel</item>
+        <item>Christbaumkugel</item>
+        <item>Christkind</item>
+        <item>Christstollen</item>
+        <item>Der kleine Lord</item>
+        <item>Die drei Weisen aus dem Morgenland</item>
+        <item>Die Muppets-Weihnachtsgeschichte</item>
+        <item>Dominosteine</item>
+        <item>Eierlikör</item>
+        <item>Eiszapfen</item>
+        <item>Engel</item>
+        <item>Feuerzangenbowle</item>
+        <item>Fondue</item>
+        <item>Frosty the Snowman</item>
+        <item>Geschenke</item>
+        <item>Glöckchen</item>
+        <item>Glühwein</item>
+        <item>Gold, Weihrauch, Myrrhe</item>
+        <item>Grinch</item>
+        <item>Gänsebraten</item>
+        <item>Heiligabend</item>
+        <item>Ho, ho, ho!</item>
+        <item>Jerusalem</item>
+        <item>Jesus</item>
+        <item>Jingle Bells</item>
+        <item>Kamin</item>
+        <item>Kartoffelsalat</item>
+        <item>Kastanien</item>
+        <item>Kerze</item>
+        <item>Knecht Ruprecht</item>
+        <item>Krippe</item>
+        <item>Lametta</item>
+        <item>Last Christmas</item>
+        <item>Late-Night-Shopping</item>
+        <item>Lebkuchen</item>
+        <item>Leise rieselt der Schnee</item>
+        <item>Lichterketten</item>
+        <item>Maria und Josef</item>
+        <item>Marshmallows</item>
+        <item>Marzipan</item>
+        <item>Mistelzweig</item>
+        <item>Mitternachtsmette</item>
+        <item>Nikolaussack</item>
+        <item>Nordpol</item>
+        <item>Nussknacker</item>
+        <item>O du Fröhliche</item>
+        <item>Ochs und Esel</item>
+        <item>Pfefferkuchenhaus</item>
+        <item>Plätzchen</item>
+        <item>Polarexpress</item>
+        <item>Raclette</item>
+        <item>Rentier</item>
+        <item>Rudolph mit der roten Nase</item>
+        <item>Rute</item>
+        <item>Räuchermännchen</item>
+        <item>Schlitten</item>
+        <item>Schlittschuhe</item>
+        <item>Schnee</item>
+        <item>Schneeballschlacht</item>
+        <item>Schneekugel</item>
+        <item>Schneemann</item>
+        <item>Schornstein</item>
+        <item>Scrooge</item>
+        <item>Spekulatius</item>
+        <item>Spritzgebäck</item>
+        <item>Stern von Bethlehem</item>
+        <item>Sternsinger</item>
+        <item>Stiefel</item>
+        <item>Stille Nacht, heilige Nacht</item>
+        <item>Strickpullover</item>
+        <item>Strohstern</item>
+        <item>Tannenbaum</item>
+        <item>Truthahn</item>
+        <item>Vanillekipferl</item>
+        <item>Walnüsse</item>
+        <item>Weihnachtself</item>
+        <item>Weihnachtsgans</item>
+        <item>Weihnachtskarten</item>
+        <item>Weihnachtsmann</item>
+        <item>Weihnachtsmarkt</item>
+        <item>Weihnachtsstrumpf</item>
+        <item>Wichteln</item>
+        <item>Wunderkerze</item>
+        <item>Wunschzettel</item>
+        <item>Zimtsterne</item>
+        <item>Zuckerstange</item>
+    </string-array>
+
 </resources>
